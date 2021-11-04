@@ -10,21 +10,21 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=Amalser-%20userbot&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.imgur.com/w89FHm7.pngbackgroundColor=%23ecf0f1&github=Amalser&&pattern=leaf&colorPattern=%25eaeaea)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cyberchekuthan&label=Profile%20views&color=0e75b6&style=flat" alt="Amalser_v2" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Amal-ser&label=Profile%20views&color=0e75b6&style=flat" alt="Amalser" /> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberchekuthan" alt="Amalser_v2" /></a> </p>
-
-<p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberchekuthan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Amalser_v2" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amal-ser" alt="Amalser" /></a> </p>
 
 <p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberchekuthan&show_icons=true&theme=dark&locale=en" alt="Amalser_v2" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amal-ser&show_icons=true&theme=dark&locale=en&layout=compact" alt="Amalser" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberchekuthan&theme=dark" alt="Amalser_v2" /></p>
+<p align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amal-ser&show_icons=true&theme=dark&locale=en" alt="Amalser" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amalser&theme=dark" alt="Amalser" /></p>
 </p>
 
-- 🔭 I’m currently working on [Amalser] (https://github.com/cyberchekuthan/Amalser_v2)
+- 🔭 I’m currently working on [Amalser] (https://github.com/Amal-ser/Amalser)
 
 - 💬 Ask me about **ME**
 
@@ -38,12 +38,12 @@
 **CLICK THE LOGO TO VISIT THE REPO 👇🏻👇🏻👇**
 
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=cyberchekuthan&repo=Amalser_v2&theme=dark)](https://github.com/cyberchekuthan/Amalser_v2)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=dark)](https://github.com/Amal-ser/Amalser)
 
 
 
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=cyberchekuthan&repo=Amalser_v1&theme=dark)](https://github.com/cyberchekuthan/Amalser_v2)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=dark)](https://github.com/Amal-ser/Amalser)
 
 
 
@@ -51,7 +51,7 @@
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=cyberchekuthan)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Amal-ser)
 
 </details>
 
