@@ -2,7 +2,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=Welcome+to+Amalser_v2+WA+Bot+repo;Created+by+Amal;This+is+a+userbot+privet+and+public+bot;With+more+features)](https://git.io/typing-svg)
 #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/cyberchekuthan/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Amal-ser/count.svg)
 
 <img src=https://i.imgur.com/w89FHm7.jpeg>
 
