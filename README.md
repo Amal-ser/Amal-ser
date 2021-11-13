@@ -24,18 +24,18 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amalser&theme=dark" alt="Amalser" /></p>
 </p>
 
-- 🔭 I’m currently working on [Amalser] (https://github.com/Amal-ser/Amalser)
+- 🔭 I’m currently working on [Amal-ser] (https://github.com/Amal-ser/Amalser)
 
-- 💬 Ask me about **ME**
+- 💬 Ask me about *ME*
 
-- 📫 How to reach me **https://wa.me/919895828468**
+- 📫 How to reach me *https://wa.me/919895828468*
 
-- ⚡ Fun fact **I THINK IAM VERY POSITIVE**
+- ⚡ Fun fact *I THINK IAM VERY POSITIVE*
 
 
 ### Repo Stats 🔭
 
-**CLICK THE LOGO TO VISIT THE REPO 👇🏻👇🏻👇**
+*CLICK THE LOGO TO VISIT THE REPO 👇🏻👇🏻👇*
 
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=dark)](https://github.com/Amal-ser/Amalser)
